@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environments
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build/Cache
+dist/
+build/
+.cache/
+.tmp/
+
+# Editors/IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Misc
+*.swp
+*~
+__pycache__/
+*.pyc
